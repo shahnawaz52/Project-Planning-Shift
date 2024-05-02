@@ -1,7 +1,5 @@
 # Project-Planning-Shift
 
-# Project Planning Shift
-
 ## Description
 The "Project Planning Shift" is an integration solution developed for Odoo that simplifies the management of projects and resource allocation. When a project or task is created within Odoo, this module automatically generates corresponding shifts in the Odoo planning module. This automation bridges the gap between project management and workforce planning, ensuring that resource allocation is directly tied to project needs, which enhances efficiency, reduces manual errors, and streamlines operations across departments.
 
